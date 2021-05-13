@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.296,=C:\Users\stud\Kursovaya2\ModelSupport_Project3\default.txvpck</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.432,C:\Users\stud\Desktop\Курсовая Высоцкий(2)\Unit2.pas=C:\Users\stud\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.474,C:\Users\stud\Desktop\Курсовая Высоцкий(2)\Project3.dproj=C:\Users\stud\Documents\RAD Studio\Projects\Project3.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.432,C:\Users\stud\Desktop\Курсовая Высоцкий(2)\Unit2.dfm=C:\Users\stud\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.726,=C:\Users\stud\Kursovaya2\ModelSupport_Project3\Project3\default.txvpck</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.766,=C:\Users\stud\Kursovaya2\ModelSupport_Project3\Unit2\default.txvpck</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.505,=C:\Users\stud\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.788,=C:\Users\stud\Kursovaya2\ModelSupport_Project3\default.txaPackage</Transaction>
     <Transaction>1899.12.30 00:00:00.000.805,=C:\Users\stud\Kursovaya2\ModelSupport_Project3\Unit2\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.432,C:\Users\stud\Desktop\Курсовая Высоцкий(2)\Unit2.pas=C:\Users\stud\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,=C:\Users\stud\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,=C:\Users\stud\Kursovaya2\ModelSupport_Project3\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,=C:\Users\stud\Kursovaya2\ModelSupport_Project3\Project3\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,C:\Users\stud\Desktop\Курсовая Высоцкий(2)\Project3.dproj=C:\Users\stud\Documents\RAD Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,=C:\Users\stud\Kursovaya2\ModelSupport_Project3\Unit2\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,=C:\Users\stud\Kursovaya2\ModelSupport_Project3\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.432,C:\Users\stud\Desktop\Курсовая Высоцкий(2)\Unit2.dfm=C:\Users\stud\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
   </Transactions>
 </BorlandProject>
