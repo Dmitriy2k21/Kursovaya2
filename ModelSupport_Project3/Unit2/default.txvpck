@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet version="1.0">
+  <view uin="oezzqxizvzn_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:Project3:Unit2.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:Project3:Unit2.@unitclass.Form2" />
+      <reference referencedUin="delphi:l_ast:src:Project3:Unit2.@unitclass.Form2" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project3:Unit2.TForm2">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="10,10,146,220" />
+      <reference referencedUin="delphi:e_field:src:Project3:Unit2.TForm2.Button1" />
+      <reference referencedUin="delphi:e_field:src:Project3:Unit2.TForm2.Memo1" />
+      <reference referencedUin="delphi:e_field:src:Project3:Unit2.TForm2.Button2" />
+      <reference referencedUin="delphi:e_method:src:Project3:Unit2.TForm2.Button1Click(System.TObject)" />
+      <reference referencedUin="delphi:e_method:src:Project3:Unit2.TForm2.Button2Click(System.TObject)" />
+      <reference referencedUin="delphi:e_method:src:Project3:Unit2.TForm2.Funkfff(System.string)" />
+      <reference referencedUin="delphi:e_method:src:Project3:Unit2.TForm2.Mas(ref@System.Integer[],System.Integer,ref@System.Integer,ref@System.Real)" />
+      <reference referencedUin="delphi:e_field:src:Project3:Unit2.TForm2.Field1" />
+      <reference referencedUin="delphi:e_field:src:Project3:Unit2.TForm2.Field2" />
+      <reference referencedUin="delphi:l_ast:src:Project3:Unit2.TForm2.Field1">
+        <property name="sourceAnchor" value="156,153" />
+        <property name="targetAnchor" value="442,153" />
+        <property name="bendpoints" value="" />
+      </reference>
+      <reference referencedUin="delphi:l_ast:src:Project3:Unit2.TForm2.Field2">
+        <property name="sourceAnchor" value="156,225" />
+        <property name="targetAnchor" value="440,225" />
+        <property name="bendpoints" value="" />
+      </reference>
+    </reference>
+    <reference referencedUin="delphi:e_class:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="442,77,175,113" />
+      <property name="hideAttribute" value="True" />
+      <property name="hideOperation" value="True" />
+      <property name="hideProperty" value="True" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FDefault" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.Cancel" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.GetActionLinkClass()" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetImageIndex(System.Integer)" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FImageMargins" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.CMDialogChar(ref@Winapi.Messages.TWMKey)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.ImageMarginsChange(System.TObject)" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FStylusHotImageIndex" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetDefault(System.Boolean)" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FHotImageIndex" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.CNCommand(ref@Winapi.Messages.TWMCommand)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetImageList()" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetDisabledImageIndex(System.Integer)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.UpdateImages()" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.ImageListChange(System.TObject)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.Destroy@()" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.TabStop" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetCommandLinkHint(System.string)" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FCommandLinkHint" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FImageAlignment" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.Click()" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetElevationRequiredState()" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FElevationRequired" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FSelectedImageIndex" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FDisabledImageIndex" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FOnDropDownClick" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.Loaded()" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetStylusHotImageIndex(System.Integer)" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.StylusHotImageIndex" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.UpdateImageList()" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.Create(System.Classes.TComponent)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.CreateParams(ref@Vcl.Controls.TCreateParams)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.UseRightToLeftAlignment()" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.CNNotify(ref@Winapi.Messages.TWMNotify)" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.ImageMargins" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.UpdateCommandLinkHint()" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.ImageIndex" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.ImageAlignment" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetElevationRequired(System.Boolean)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.ActionChange(System.TObject,System.Boolean)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetImages(Vcl.ImgList.TCustomImageList)" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.HotImageIndex" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.Destroy()" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FDropDownMenu" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FActive" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetStyle(Vcl.StdCtrls.TCustomButton.TButtonStyle)" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.DisabledImageIndex" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.IsImageIndexStored()" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.CNCtlColorBtn(ref@Winapi.Messages.TWMCtlColor)" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.CommandLinkHint" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FImageIndex" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetDropDownMenu(Vcl.Menus.TPopupMenu)" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.ModalResult" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetSelectedImageIndex(System.Integer)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.Create@()" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.Style" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FImages" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FModalResult" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FCancel" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FImageChangeLink" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.Images" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.Default" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetHotImageIndex(System.Integer)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.Notification(System.Classes.TComponent,System.Classes.TOperation)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.CMFocusChanged(ref@Vcl.Controls.TCMFocusChanged)" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FPressedImageIndex" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.PressedImageIndex" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FStyle" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.CMDialogKey(ref@Winapi.Messages.TWMKey)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetButtonStyle(System.Boolean)" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.DropDownMenu" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetImageAlignment(Vcl.StdCtrls.TImageAlignment)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetPressedImageIndex(System.Integer)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.CreateWnd()" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.OnDropDownClick" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SelectedImageIndex" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.WMEraseBkgnd(ref@Winapi.Messages.TWMEraseBkgnd)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.SetImageMargins(Vcl.StdCtrls.TImageMargins)" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.ElevationRequired" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.FInternalImageList" />
+      <reference referencedUin="delphi:e_class:lib:DelphiWin32:Vcl.StdCtrls.TCustomButton.TButtonStyle" />
+    </reference>
+    <reference referencedUin="delphi:e_class:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="440,220,173,81" />
+      <property name="hideAttribute" value="True" />
+      <property name="hideOperation" value="True" />
+      <property name="hideProperty" value="True" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.Create(System.Classes.TComponent)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.DoGetGestureOptions(ref@Vcl.StdCtrls.TCustomMemo.DoGetGestureOptions.TInteractiveGestures,ref@Vcl.StdCtrls.TCustomMemo.DoGetGestureOptions.TInteractiveGestureOptions)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.WMGetDlgCode(ref@Winapi.Messages.TWMNoParams)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.Destroy()" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.SetCaretPos(System.Types.TPoint)" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.FWantReturns" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.WantTabs" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.KeyPress(ref@System.Char)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.Destroy@()" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.CreateParams(ref@Vcl.Controls.TCreateParams)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.SetScrollBars(Vcl.StdCtrls.TScrollStyle)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.Create@()" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.Lines" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.FScrollBars" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.FWordWrap" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.WantReturns" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.GetCaretPos()" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.FWantTabs" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.SetLines(System.Classes.TStrings)" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.WordWrap" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.IsTouchPropertyStored(Vcl.Controls.TTouchProperty)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.CreateWindowHandle(Vcl.Controls.TCreateParams)" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.CaretPos" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.SetWordWrap(System.Boolean)" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.WMNCDestroy(ref@Winapi.Messages.TWMNoParams)" />
+      <reference referencedUin="delphi:e_field:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.FLines" />
+      <reference referencedUin="delphi:e_property:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.ScrollBars" />
+      <reference referencedUin="delphi:e_method:lib:DelphiWin32:Vcl.StdCtrls.TCustomMemo.Loaded()" />
+    </reference>
+  </view>
+</nodeSet>

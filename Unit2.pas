@@ -17,6 +17,8 @@ type
   private
     { Private declarations }
   public
+    Field1: TCustomButton;
+    Field2: TCustomMemo;
     function Funkfff(s: string): word;
     procedure Mas(var a: array of integer; const N: integer; var Sum: integer; var Sred: real);
 
